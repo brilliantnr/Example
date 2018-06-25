@@ -1,0 +1,9 @@
+package card;
+
+public class CardBean {
+	//pattern, number, width, height
+	public String[]  pattern = {"Heart","Diamond","Spade","Clover"};
+	public int number, width, height;
+	
+	
+}
